@@ -1,0 +1,15 @@
+Título detectado: Marx: Lógica e Política | Autor: Ruy Fausto
+Páginas lidas: 247 | Fonte mediana do corpo: 10.0 pt
+Cabeçalhos/rodapés removidos: 455
+Correções automáticas de OCR: 26 (veja correcoes_ocr.txt)
+Capítulos estruturados: 8 | Parágrafos: 390 | Notas: 396
+
+Sumário de Capítulos Detectados:
+  [PDF págs. 9-10] Nota introdutória (2 parágrafos, 0 notas no fim do capítulo)
+  [PDF págs. 11-65] Introdução (82 parágrafos, 78 notas no fim do capítulo)
+  [PDF págs. 66-86] Althusserismo e antropologismo (35 parágrafos, 60 notas no fim do capítulo)
+  [PDF págs. 89-138] 3 (45 parágrafos, 110 notas no fim do capítulo)
+  [PDF págs. 141-210] 4 (150 parágrafos, 9 notas no fim do capítulo)
+  [PDF págs. 211-223] 211 (42 parágrafos, 93 notas no fim do capítulo)
+  [PDF págs. 227-235] Apêndices — Sobre o destino da antropologia (11 parágrafos, 21 notas no fim do capítulo)
+  [PDF págs. 236-247] Notas sobre o jovem Marx1 (23 parágrafos, 25 notas no fim do capítulo)
